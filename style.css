@@ -1,0 +1,12 @@
+.bg-explore {
+    background-color: #F4FAFD;
+}
+
+.carousel-caption {
+    top: 20%;
+    bottom: auto;
+}
+
+.img-dark {
+    filter: brightness(50%);
+}

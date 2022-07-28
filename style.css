@@ -1,12 +1,28 @@
-.bg-explore {
-    background-color: #F4FAFD;
-}
+/* ------------
+header section style 
+--------------------*/
 
 .carousel-caption {
     top: 20%;
     bottom: auto;
 }
 
+/*------------
+   main style  
+---------------*/
+
+/* course section style  */
 .img-dark {
     filter: brightness(50%);
+}
+
+/* question section style  */
+.question {
+    width: 85%;
+
+}
+
+.accordion-body,
+.row {
+    text-align: justify;
 }

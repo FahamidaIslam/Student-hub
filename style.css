@@ -16,6 +16,24 @@ header section style
     filter: brightness(50%);
 }
 
+
+/* institute section style  */
+.bg-explore {
+    background-color: #F4FAFD;
+}
+
+.card-img {
+
+
+    height: 806px;
+}
+
+
+.card-body {
+
+    height: 806px;
+}
+
 /* question section style  */
 .question {
     width: 85%;

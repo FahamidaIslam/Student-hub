@@ -1,3 +1,10 @@
+/* common style  */
+body {
+    background: no-repeat;
+    font-family: 'Poppins', sans-serif;
+
+}
+
 /* ------------
 header section style 
 --------------------*/
@@ -33,6 +40,15 @@ header section style
 
     height: 806px;
 }
+
+
+/* register section style  */
+.btn-register {
+    background-color: white;
+    text-decoration: none;
+
+}
+
 
 /* question section style  */
 .question {

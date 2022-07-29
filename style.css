@@ -21,6 +21,7 @@ header section style
 /* course section style  */
 .img-dark {
     filter: brightness(50%);
+    height: 100vh;
 }
 
 

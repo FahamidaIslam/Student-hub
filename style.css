@@ -50,6 +50,12 @@ header section style
 }
 
 
+/* Feedback section style  */
+
+.fa-star {
+    color: rgb(255, 187, 0);
+}
+
 /* question section style  */
 .question {
     width: 85%;
@@ -57,6 +63,6 @@ header section style
 }
 
 .accordion-body,
-.row {
+.para {
     text-align: justify;
 }

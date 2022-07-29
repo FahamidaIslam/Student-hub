@@ -14,16 +14,20 @@ header section style
     bottom: auto;
 }
 
-/*------------
-   main style  
----------------*/
-
-/* course section style  */
 .img-dark {
     filter: brightness(50%);
     height: 100vh;
 }
 
+
+/*------------
+   main style  
+---------------*/
+
+/* course section style  */
+.course-img {
+    height: fit-content;
+}
 
 /* institute section style  */
 .bg-explore {

@@ -51,10 +51,12 @@ header section style
 
 
 /* Feedback section style  */
-
-.fa-star {
+.fa-star,
+.fa-star-half-stroke {
     color: rgb(255, 187, 0);
 }
+
+
 
 /* question section style  */
 .question {
